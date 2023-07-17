@@ -25,3 +25,7 @@ O objetivo central da "Enciclopédia de Personagens Super Heróis" é proporcion
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JS"/> 
     </div>
 </div>
+
+
+Deploy do site:
+https://super-hero-search.vercel.app/
